@@ -1,0 +1,3 @@
+"""starting up"
+"found a message!"
+'#hasheq((addr . 8887) (msg . "hey"))
